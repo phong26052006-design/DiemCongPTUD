@@ -1,0 +1,12 @@
+{
+  "repository": "phong26052006-design/DiemCongPTUD",
+  "inspected_at_utc": "2026-10-23T16:05:48.564032+00:00",
+  "head": "871a8e1de37d6cdc18593ce933748b14224c34e9",
+  "tracked_files": [
+    "README.md"
+  ],
+  "working_tree_status": "",
+  "readme_sha256": "f81e6f82c703483ff484ac39b2a018acd5b42a20c6b80a521d884420508a244b",
+  "finding": "Only README.md is present; no application baseline or database schema can be established from this checkout.",
+  "remote_main_commit": "871a8e1de37d6cdc18593ce933748b14224c34e9"
+}

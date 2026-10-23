@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-10-23T16:06:14.894213+00:00",
+  "references": 15,
+  "source_files_with_matching_sha256": 13,
+  "online_rechecks_matching_original_sources": 12,
+  "pdf_pages": 14,
+  "tables": 3,
+  "equations": 1,
+  "table_rows_protected_against_page_splitting": true,
+  "baseline_unresolved": true,
+  "survey_type": "static source inspection; not three observed retail stores",
+  "docx_sha256": "bcadfec0271a8f4ddd8bb41a92c9caa63ec3f7316905c0e913bf3bc76746ea53",
+  "pdf_sha256": "7645448950b6332a76960b04273018077641b52922d37b3d783c9792e59037b7"
+}
