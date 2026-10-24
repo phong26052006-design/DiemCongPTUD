@@ -200,4 +200,3 @@ Số PL.1–PL.9 là số hình của phụ lục; điều chỉnh lại nếu c
 **Vị trí đề xuất:** 2.1.1 — trường hợp WooCommerce; 2.1.2 — so sánh cơ chế.
 
 **SHA-256:** `c0a2d9dcff63516dac13d42f801eacbea57298f14cd9b3e8674c98e14016d2cb`.
-
