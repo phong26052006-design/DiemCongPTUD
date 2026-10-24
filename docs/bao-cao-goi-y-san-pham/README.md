@@ -43,3 +43,9 @@ Ngày: 23/10/2026. Đề tài được người dùng xác nhận: gợi ý sả
 - HIEN-TRANG-BASELINE.json: ảnh chụp kết quả kiểm tra kho dự án.
 
 Tệp PDF được bổ sung sau bước chuyển đổi Word. Kho lưu trữ chỉ chứa bản tổng hợp và metadata bằng chứng, không đóng gói toàn bộ mã nguồn hoặc sách/tài liệu gốc.
+
+## Phụ lục hình ảnh bổ sung ngày 24/10/2026
+
+[Xem 9 ảnh minh chứng cùng URL nguồn và chú thích](minh-chung-website/README.md), hoặc tải [phụ lục PDF](minh-chung-website/PHU-LUC-MINH-CHUNG-HINH-ANH.pdf), [Word](minh-chung-website/PHU-LUC-MINH-CHUNG-HINH-ANH.docx) và [ZIP](minh-chung-website/MINH-CHUNG-WEBSITE-CO-NGUON.zip).
+
+Bộ ảnh có 6 ảnh giao diện từ tài liệu/tài nguyên chính thức và 3 ảnh chụp trang mã nguồn. Việc bổ sung này không thay đổi giới hạn của báo cáo: chưa khảo sát demo trực tiếp và chưa có source baseline ứng dụng của nhóm.
